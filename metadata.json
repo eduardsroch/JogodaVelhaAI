@@ -1,0 +1,5 @@
+{
+  "name": "Jogo da Velha AI",
+  "description": "O clássico Jogo da Velha reinventado. Jogue contra amigos ou contra uma IA desafiadora em uma interface moderna.",
+  "requestFramePermissions": []
+}
